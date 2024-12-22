@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @kralpanda21
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-hi i am Kralpanda21 i am a student aiming to learn software and i am turkish
-<!---
-kralpanda21/kralpanda21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi,
+
+At the age of 14, the software enthusiasm I got from games and my environment brought me here.  I hope it will carry me somewhere from now on.  I have very good plans for the future, and I am sure it will be very nice if it comes true.  I will share many projects I have done and will do here. 
+****************************************************************
+
+Software languages that I know and aim to learn on:
+
+1) Html 
+2) Css
+3) Javascript
+4) Python
+5) C#
+6) sql
+
+****************************************************************
